@@ -1,2 +1,2 @@
 # JaloAndroid
-Proyecto móvil para navegadores android
+Proyecto para moviles android
